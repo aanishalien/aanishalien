@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aanishalien
 - 👀 I’m interested in coding,software engineering
 - 🌱 I’m currently learning software engineering 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on Software Developers, Ai developers and also Mobile Application Developers
+- 📫 How to reach me aanishrizmy28@gmail.com 
