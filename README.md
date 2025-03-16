@@ -5,16 +5,21 @@
 <h1 align="center">Hi there! 👋</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aanish-rizmy&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aanish-rizmy&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aanish-rizmy&theme=tokyonight" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aanish-rizmy&theme=radical&margin-w=15&margin-h=15" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/aanish-rizmy/aanish-rizmy/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=aanish-rizmy&theme=react-dark" />
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aanish-rizmy&label=Profile+Views&color=brightgreen&style=flat-square" />
+</p>
+
 
 <h2 align="center"> 🚀 Tech Stack & Interests </h2>
 
