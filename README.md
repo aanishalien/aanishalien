@@ -1,29 +1,42 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7AE2A&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Hey%2C+I'm+Aanish+Rizmy!;A+passionate+developer;Building+awesome+stuff+with+React%2C+Python!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7AE2A&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Hey%2C+I'm+Aanish+Rizmy!;A+passionate+React.js+Developer;AI+Enthusiast+and+Python+Coder;Exploring+AI+and+Robotics+Development!">
 </p>
 
 <h1 align="center">Hi there! 👋</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aanish-rizmy&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aanish-rizmy&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/aanish-rizmy/aanish-rizmy/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
+<h2 align="center"> 🚀 Tech Stack & Interests </h2>
+
 <p align="center">
+    <img src="https://img.shields.io/badge/React.js-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
-    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/AI-%230A192F.svg?style=for-the-badge&logo=openai&logoColor=white" />
+    <img src="https://img.shields.io/badge/Robotics-%230071C5.svg?style=for-the-badge&logo=robotframework&logoColor=white" />
+    <img src="https://img.shields.io/badge/Machine%20Learning-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
 
+<h2 align="center"> 🔥 About Me </h2>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=brightgreen&style=flat-square" alt="Profile Views" />
+🚀 Passionate **React.js Developer** | 🤖 AI Enthusiast & Robotics Learner | 🐍 Python Developer  
+💡 Exploring the world of **AI, ML, and Robotics Development**  
+💻 Always learning and building innovative projects in **AI, Python, and Web Development**  
+</p>
+
+<h2 align="center"> 📊 GitHub Stats </h2>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aanish-rizmy&label=Profile+Views&color=brightgreen&style=flat-square" alt="Profile Views" />
 </p>
 
 <p align="center">
