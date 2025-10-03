@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7AE2A&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Hey%2C+I'm+Aanish+Rizmy!;A+passionate+React.js+Developer;AI+Enthusiast+and+Python+Coder;Exploring+AI+and+Robotics+Development!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7AE2A&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Hey%2C+I'm+Aanish+Rizmy!;A+Software+Engineer;AI+Enthusiast+and+Python+Coder;Exploring+AI+and+Robotics+Development!">
 </p>
 
 <h1 align="center">Hi there! 👋</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aanish-rizmy&show_icons=true&theme=tokyonight" />
+  <img src="https://readme-stats-sigma-five.vercel.app/api?username=aanish-rizmy&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aanish-rizmy&theme=radical&margin-w=15&margin-h=15" />
+  <img src="https://profile-trophy.vercel.app/?username=aanish-rizmy&theme=radical&margin-w=15&margin-h=15" />
 </p>
 
 <p align="center">
