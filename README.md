@@ -1,49 +1,76 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7AE2A&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Hey%2C+I'm+Aanish+Rizmy!;A+Software+Engineer;AI+Enthusiast+and+Python+Coder;Exploring+AI+and+Robotics+Development!">
-</p>
+<div align="center">
 
-<h1 align="center">Hi there! 👋</h1>
+### 👋 Hello, I'm **Aanish Rizmy**
 
-<p align="center">
-  <img src="https://readme-stats-sigma-five.vercel.app/api?username=aanish-rizmy&show_icons=true&theme=tokyonight" />
-</p>
+**Software Engineer | AI & Robotics Explorer | Python & Web Developer**
 
-<p align="center">
-  <img src="https://profile-trophy.vercel.app/?username=aanish-rizmy&theme=radical&margin-w=15&margin-h=15" />
-</p>
+Building intelligent systems. Learning by shipping. Curious by default.
 
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=aanish-rizmy&theme=react-dark" />
-</p>
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aanish-rizmy&label=Profile+Views&color=brightgreen&style=flat-square" />
-</p>
+---
 
+### 🧠 Who I Am
 
-<h2 align="center"> 🚀 Tech Stack & Interests </h2>
+* Software Engineer focused on **AI-driven products**
+* Strong interest in **Machine Learning, Robotics, and Automation**
+* Comfortable across **frontend, backend, and ML pipelines**
+* Believe in **learning by building real projects**
+
+---
+
+### 🛠️ Core Skills
 
 <p align="center">
-    <img src="https://img.shields.io/badge/React.js-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/AI-%230A192F.svg?style=for-the-badge&logo=openai&logoColor=white" />
-    <img src="https://img.shields.io/badge/Robotics-%230071C5.svg?style=for-the-badge&logo=robotframework&logoColor=white" />
-    <img src="https://img.shields.io/badge/Machine%20Learning-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Robotics-0A192F?style=flat-square&logo=robotframework&logoColor=white"/>
 </p>
 
-<h2 align="center"> 🔥 About Me </h2>
+---
+
+### 🚀 What I’m Working On
+
+* AI-powered applications and developer tools
+* Machine learning models (classification, prediction, analysis)
+* Robotics & automation concepts (computer vision + control systems)
+* Full-stack products using **React + FastAPI**
+
+---
+
+### 📈 GitHub Activity
+
 <p align="center">
-🚀 Passionate **React.js Developer** | 🤖 AI Enthusiast & Robotics Learner | 🐍 Python Developer  
-💡 Exploring the world of **AI, ML, and Robotics Development**  
-💻 Always learning and building innovative projects in **AI, Python, and Web Development**  
-</p>
-
-<h2 align="center"> 📊 GitHub Stats </h2>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aanish-rizmy&label=Profile+Views&color=brightgreen&style=flat-square" alt="Profile Views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aanish-rizmy&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aanish-rizmy&theme=tokyonight&hide_border=true"/>
 </p>
+
+---
+
+### 🏆 Highlights
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aanish-rizmy&theme=onedark&no-frame=true&row=1"/>
+</p>
+
+---
+
+### 🌱 Currently Learning
+
+* Advanced ML fundamentals
+* Applied computer vision
+* Robotics systems & automation workflows
+* Scalable AI product design
+
+---
+
+<div align="center">
+
+📫 **Let’s build something meaningful.** <img src="https://komarev.com/ghpvc/?username=aanish-rizmy&style=flat-square&color=grey"/>
+
+</div>
