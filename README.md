@@ -409,7 +409,7 @@ Open To:
 <a href="mailto:aanishrizmy28@gmail.com"><img src="https://img.shields.io/badge/Gmail-aanishrizmy28%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0c29"/></a>
 <a href="https://linkedin.com/in/aanish-rizmy"><img src="https://img.shields.io/badge/LinkedIn-aanish--rizmy-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0c29"/></a>
 <a href="https://github.com/aanishalien"><img src="https://img.shields.io/badge/GitHub-aanishalien-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0c29"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-A78BFA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f0c29"/></a>
+<a href="https://aanish-portfolio-new.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-A78BFA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f0c29"/></a>
 
 </div>
 
