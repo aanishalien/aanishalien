@@ -246,11 +246,11 @@ Sep 2025 – Present · Colombo, Sri Lanka
 
 Developing the CGP (Career Guidance Platform), working across AI-powered backend services, secure assessment infrastructure, and computer vision-based examination monitoring.
 
-Developing CGP backend services and AI-powered career guidance features
-Engineered CGPShell, a cross-platform secure exam browser using C#/.NET, SwiftUI, and Python/PySide6 across Windows, macOS, and Linux
-Built backend APIs for secure sessions, candidate verification, security event reporting, and audit logging
-Building an AI Proctoring system using MediaPipe and OpenCV-Python for real-time examination monitoring
-Collaborating across frontend, backend, and desktop teams to integrate secure assessment workflows
+- Developing CGP backend services and AI-powered career guidance features
+- Engineered CGPShell, a cross-platform secure exam browser using C#/.NET, SwiftUI, and Python/PySide6 across Windows, macOS, and Linux
+- Built backend APIs for secure sessions, candidate verification, security event reporting, and audit logging
+- Building an AI Proctoring system using MediaPipe and OpenCV-Python for real-time examination monitoring
+- Collaborating across frontend, backend, and desktop teams to integrate secure assessment workflows
 
 <img src="https://img.shields.io/badge/-Python-302b63?style=flat-square"/> <img src="https://img.shields.io/badge/-C%23-302b63?style=flat-square"/> <img src="https://img.shields.io/badge/-.NET-302b63?style=flat-square"/> <img src="https://img.shields.io/badge/-SwiftUI-302b63?style=flat-square"/> <img src="https://img.shields.io/badge/-PySide6-302b63?style=flat-square"/> <img src="https://img.shields.io/badge/-MediaPipe-302b63?style=flat-square"/> <img src="https://img.shields.io/badge/-OpenCV-302b63?style=flat-square"/>
 
