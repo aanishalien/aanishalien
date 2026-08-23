@@ -240,19 +240,20 @@ A retrieval-augmented generation system that decomposes a single user query into
 
 <br/>
 
-**Software Engineer — AI Backend** · OXO
-<br/>
-`Current`
+**Software Engineer — AI Backend** · OXO <br/>
+`Sep 2025 – Present` · `Colombo, Sri Lanka`
 
-Engineering the CGP (Career Guidance Platform) product suite's core secure infrastructure, with primary ownership of **CGPShell**, a cross-platform secure exam browser.
+Developing the **CGP (Career Guidance Platform)** product suite, building AI-powered backend services and secure assessment infrastructure. Primary engineering work includes **CGPShell**, a cross-platform secure exam browser, alongside backend APIs and R&D for AI-powered examination monitoring.
 
-- Architected kiosk-mode security across Windows, macOS, and Linux using native platform APIs
-- Resolved 19 security vulnerabilities in the Windows WebView2 exam shell implementation
-- Engineered Snap-sandbox detection and mitigation for Linux/Ubuntu 24.04 deployments
-- Built native macOS lockdown using `libobjc.dylib` P/Invoke and `NSApplicationPresentationOptions`
-- Researched and designed the CGP Interview Cheating Detection System architecture (gaze tracking, head pose estimation, audio analysis, NLP answer analysis, proxy detection)
+* Developed **CGP backend services** and AI-powered career guidance features supporting the platform's assessment and career workflows
+* Engineered **CGPShell**, a cross-platform secure exam browser using **C#/.NET, SwiftUI, and Python/PySide6** across Windows, macOS, and Linux
+* Implemented **OS-level lockdown, kiosk mode, keyboard interception, URL restrictions, and exam security controls** for secure assessment environments
+* Built production-grade backend APIs for **secure session creation, candidate verification, real-time security event reporting, and audit logging**
+* Resolved **19 security vulnerabilities** in the Windows WebView2 exam shell implementation and addressed platform-specific deployment issues
+* Conducting R&D and building an **AI Proctoring system** using **MediaPipe and OpenCV-Python** for real-time examination monitoring, including gaze/head-pose analysis and other cheating-detection signals
+* Collaborated across frontend, backend, and desktop teams to integrate secure assessment workflows across **React applications, desktop clients, and cloud services**
 
-<img src="https://img.shields.io/badge/-C%23-302b63?style=flat-square"/> <img src="https://img.shields.io/badge/-.NET-302b63?style=flat-square"/> <img src="https://img.shields.io/badge/-Avalonia%20UI-302b63?style=flat-square"/> <img src="https://img.shields.io/badge/-WebView2-302b63?style=flat-square"/> <img src="https://img.shields.io/badge/-Security%20Engineering-302b63?style=flat-square"/>
+<img src="https://img.shields.io/badge/-Python-302b63?style=flat-square"/> <img src="https://img.shields.io/badge/-C%23-302b63?style=flat-square"/> <img src="https://img.shields.io/badge/-.NET-302b63?style=flat-square"/> <img src="https://img.shields.io/badge/-SwiftUI-302b63?style=flat-square"/> <img src="https://img.shields.io/badge/-PySide6-302b63?style=flat-square"/> <img src="https://img.shields.io/badge/-WebView2-302b63?style=flat-square"/> <img src="https://img.shields.io/badge/-MediaPipe-302b63?style=flat-square"/> <img src="https://img.shields.io/badge/-OpenCV-302b63?style=flat-square"/>
 
 <br/>
 
